@@ -4,9 +4,9 @@
 
 This project presents a **SystemVerilog UVM-based testbench** to verify an **SPI Memory** module. It follows industry-standard verification methodologies with a modular, scalable, and reusable testbench architecture. The design under verification includes a memory block and an SPI controller, and the verification environment is fully constrained-random with functional coverage.
 
-![SPI Memory + Controller Flow](media/Screenshot%20(3).png)
-![Memory Flow Diagram](media/Screenshot%20(4).png)
-![Controller Flow Diagram](media/Screenshot%20(6).png)
+![SPI Memory + Controller Flow](Verification-of-SPI-Memory/Screenshot%20(3).png)
+![Controller Flow Diagram](Verification-of-SPI-Memory/Screenshot%20(4).png)
+![Memory Flow Diagram](Verification-of-SPI-Memory/Screenshot%20(6).png)
 
 ---
 

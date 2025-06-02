@@ -4,9 +4,9 @@
 
 This project presents a **SystemVerilog UVM-based testbench** to verify an **SPI Memory** module. It follows industry-standard verification methodologies with a modular, scalable, and reusable testbench architecture. The design under verification includes a memory block and an SPI controller, and the verification environment is fully constrained-random with functional coverage.
 
-![SPI Memory + Controller Flow](![Image](https://github.com/user-attachments/assets/3eea2a40-b5ce-414a-9f0d-0e33e34a5abc))
-![Controller Flow Diagram](Verification-of-SPI-Memory/Screenshot%20(4).png)
-![Memory Flow Diagram](Verification-of-SPI-Memory/Screenshot%20(6).png)
+![SPI Memory + Controller Flow]([[![Image](https://github.com/user-attachments/assets/3eea2a40-b5ce-414a-9f0d-0e33e34a5abc)](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/main/Screenshot%20(3).png?raw=true)](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/91374afa99e0c64b7286f9925f6198ad2af82ca6/Screenshot%20(3).png))
+![Controller Flow Diagram]([Verification-of-SPI-Memory/Screenshot%20(4).png](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/91374afa99e0c64b7286f9925f6198ad2af82ca6/Screenshot%20(4).png))
+![Memory Flow Diagram]([Verification-of-SPI-Memory/Screenshot%20(6).png](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/91374afa99e0c64b7286f9925f6198ad2af82ca6/Screenshot%20(6).png))
 
 ---
 

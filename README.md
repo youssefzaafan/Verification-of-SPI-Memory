@@ -6,9 +6,9 @@ This project presents a **SystemVerilog UVM-based testbench** to verify an **SPI
 
 ![SPI Memory + Controller Flow](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/91374afa99e0c64b7286f9925f6198ad2af82ca6/Screenshot%20(3).png)
 
-![Controller Flow Diagram]([Verification-of-SPI-Memory/Screenshot%20(4).png](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/91374afa99e0c64b7286f9925f6198ad2af82ca6/Screenshot%20(4).png))
+![Controller Flow Diagram](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/fb34e32097fde1bc1994ec33413fa028012bcb02/Screenshot%20(4).png)
 
-![Memory Flow Diagram]([Verification-of-SPI-Memory/Screenshot%20(6).png](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/91374afa99e0c64b7286f9925f6198ad2af82ca6/Screenshot%20(6).png))
+![Memory Flow Diagram](https://github.com/youssefzaafan/Verification-of-SPI-Memory/blob/fb34e32097fde1bc1994ec33413fa028012bcb02/Screenshot%20(6).png)
 
 ---
 
